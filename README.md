@@ -1,50 +1,52 @@
 # DanboardRobot
-<pre>
 <h1>Opengl practice to create a danboard robot</h1>
+<h2>Demo Vedio:<br></h2>
+<p><pre>
+  <a href="https://youtu.be/6oJjQmc7mBU">https://youtu.be/6oJjQmc7mBU</a>
+</pre></p>
+
 <h2>Setting Function:<br></h2>
-<p>
-  Speed up      Page up<br>
-  Speed down    Page down<br>
-  Robot x+      →<br>
-  Robot x-      ←<br>
-  Robot y+      ↑<br>
-  Robot y-      ↓<br>
-  Show Ear      F1<br>
-  Eye Light     F2<br>
-  Change Skin   F3<br>
-</p>
+<p><pre>
+  Speed up      Page up
+  Speed down    Page down
+  Robot x+      →
+  Robot x-      ←
+  Robot y+      ↑
+  Robot y-      ↓
+  Show Ear      F1
+  Eye Light     F2
+  Change Skin   F3
+</pre></p>
 
 <h2>Adjust Function:<br></h2>
-<p>
-  Float Dress   Z 
+<p><pre>
+  Float Dress   Z
   Head Nod      X
   Head Shake    C
   Rotate Ear    V
   I Watch You   B
-</p>
+</pre></p>
 
 <h2>Posture Function:<br></h2>
-<p>
+<p><pre>
   Idle          Space
   Pose          A
   Sit           S
-</p>
+</pre></p>
 
 <h2>Action Function:<br></h2>
-<p>
+<p><pre>
   Wave hand     Q
   Walk          W
   Jump          E
-</p>
+</pre></p>
 
 <h2>Series Action Function:<br></h2>
-<p>
+<p><pre>
   Fly           0
   Dance         1
   Space walk    2
   Shy           3
   Rolling       4
   Big Wheel     5
-</p>
-
-</pre>
+</pre></p>
