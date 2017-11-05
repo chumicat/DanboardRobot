@@ -1,6 +1,6 @@
 # DanboardRobot
 <h1>Opengl practice to create a danboard robot</h1>
-<h2>Demo Vedio:<br></h2>
+<h2>Demo Video:<br></h2>
 <p><pre>
   <a href="https://youtu.be/6oJjQmc7mBU">https://youtu.be/6oJjQmc7mBU</a>
 </pre></p>
